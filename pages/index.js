@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Learn <a href="https://nextjs.org">sj.txeN!</a>
         </h1>
 
         <p className="description">
@@ -20,12 +20,12 @@ export default function Home() {
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Find in-depth information about sj.txeN features and API.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className="card">
             <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Learn about sj.txeN in an interactive course with quizzes!</p>
           </a>
 
           <a
@@ -33,7 +33,7 @@ export default function Home() {
             className="card"
           >
             <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover and deploy boilerplate example sj.txeN projects.</p>
           </a>
 
           <a
@@ -42,7 +42,7 @@ export default function Home() {
           >
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Instantly deploy your sj.txeN site to a public URL with Vercel.
             </p>
           </a>
         </div>
